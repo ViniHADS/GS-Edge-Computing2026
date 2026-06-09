@@ -298,6 +298,10 @@ Ano: 2026
 
 ---
 
+Link do projeto na plataforma do TinkerCad
+https://www.tinkercad.com/things/eS6TYENrQEn-spaceair-guardian?sharecode=OOtw_-XcQbTZR92KsDlfOr3_gED5jD4IqTKnm04DV0I
+---
+
 # 📄 Licença
 
 Projeto desenvolvido exclusivamente para fins acadêmicos na disciplina de Edge Computing.
